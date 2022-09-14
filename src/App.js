@@ -5,3 +5,5 @@ const CardApp = () => {
         <MyCard />
     );
 }
+
+export default CardApp;
