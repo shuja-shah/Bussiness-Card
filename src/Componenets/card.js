@@ -1,5 +1,5 @@
 
-const myCard = () => {
+const MyCard = () => {
     return (
         <>
         <img className = "myPhoto" src={require('../Assets/headshot.png')} alt='myPhoto' />
